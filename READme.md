@@ -5,15 +5,11 @@ Digital Booking "Live the Adventure"  is a website that offers the possibility t
 ## Table of contents
 
   - [MVP Functionalities](#mvp-functionalities)
-  - [MVP](#mvp)
+  - [Responsive webapp](#mvp)
   - [Built with](#built-with)
-  - [Links](#links)
-  - [Useful resources](#useful-resources)
+  - [User stories](#user-stories)
 
-
-## Overview
-
-### The challenge
+### MVP Functionalities
 
 1. User registration and login.
 2. Search and filtering of activities by destination, date, and activity type.
@@ -25,7 +21,7 @@ Digital Booking "Live the Adventure"  is a website that offers the possibility t
 8. User account to save preferences and personal details.
 
 
-### MVP
+### Responsive webapp
 
 ![](images/desktop-view.png)
 ![](images/mobile-view.png)
